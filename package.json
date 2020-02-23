@@ -1,0 +1,25 @@
+{
+  "name": "websockets_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-forge": "^0.9.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfScavarelli/Websockets_Lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfScavarelli/Websockets_Lesson/issues"
+  },
+  "homepage": "https://github.com/ProfScavarelli/Websockets_Lesson#readme"
+}
