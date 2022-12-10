@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node-forge": "^0.9.1",
     "socket.io": "^2.3.0"
   },
